@@ -1,0 +1,905 @@
+b'\n\n\n\n\n\n\n\n  \n\n\n\n    \n  \n  \n  \n  \n  \n  \n  \n\n\n\n  \n  \n  \n  \n  \n  \n\n  \n  \n  GitHub - afcarl/bindings-mql4-5: Live streaming financial data using ZMQ and metatrader (32bit MT4 and 64bit MT5)\n    \n    \n  \n  \n\n    \n    \n\n  \n  \n  \n  \n  \n\n\n  \n\n  \n\n    \n  \n  \n    \n\n\n\n\n\n\n\n\n\n\n  \n\n      \n    \n\n      \n    \n\n    \n\n  \n\n  \n  \n\n      \n      \n\n  \n\n  \n\n\n    \n\n\n  \n\n  \n\n  \n  \n\n\n\n\n\n  \n\n  \n\n  \n    \n\n  \n    Skip to content\n    \n\n    \n    \n    \n\n\n\n        \n\n\n  \n    \n      \n        \n          \n        \n\n      \n\n      \n          \n            \n                \n                  \n                    Features\n                \n                \n                  \n                    Business\n                \n\n                \n                  \n                    Explore\n                \n\n                \n                      \n                        Marketplace\n                \n                \n                  \n                    Pricing\n                \n            \n          \n\n        \n            \n              \n  \n    \n      \n        \n          \n            \n\n            \n              \n                \n                  \n                    \n                    \n\n                    \n                    \n\n                    \n                      \n                        In this repository\n                      \n                      \n                        All GitHub\n                      \n                                                  \n                    \n\n                    \n                      Jump to\n                                                  \n                    \n                  \n                \n                \n                \n                \n              \n              \n                \n                  No suggested jump to results\n                \n              \n\n              \n                \n                  \n                \n              \n            \n      \n  \n\n\n            \n\n          \n              \n                Sign in\n                  or\n                  Sign up\n              \n          \n        \n      \n    \n  \n\n  \n\n  \n\n    \n\n\n\n\n\n\n  \n        \n    \n      \n\n\n\n\n\n  \n    \n\n      \n  \n      \n    \n    Watch\n  \n  \n    0\n  \n\n  \n\n  \n      \n    \n    Star\n  \n\n    \n      0\n    \n\n  \n\n  \n      \n        \n        Fork\n      \n\n    \n      12\n    \n  \n\n\n      \n  \n  afcarl/bindings-mql4-5\n\n    \n      forked from EricSchles/bindings-mql4-5\n    \n\n\n    \n    \n\n\n  \n    \n      \n      Code\n      \n  \n\n\n  \n    \n      \n      Pull requests\n      0\n      \n  \n\n    \n      \n      Projects\n      0\n\n\n\n\n  \n    \n    Insights\n\n\n\n\n\n  \n\n\n  \n\n    \n      \n      \n        \n          \n            \n              Dismiss\n            \n          Join GitHub today\n          GitHub is home to over 28 million developers working together to host and review code, manage projects, and build software together.\n          Sign up\n        \n      \n    \n\n\n  \n  \n    \n          \n            Live streaming financial data using ZMQ and metatrader (32bit MT4 and 64bit MT5)\n          \n    \n\n  \n\n\n\n\n\n  \n    \n      \n      \n        \n          \n              \n              \n                26\n              \n              commits\n          \n        \n        \n          \n            \n            \n              1\n            \n            branch\n          \n        \n\n        \n          \n            \n            \n              0\n            \n            releases\n          \n        \n\n        \n            \n              \n                \n                \n                Fetching contributors\n              \n        \n          \n            \n              \n                Apache-2.0\n            \n          \n      \n\n        \n          \n            \n                \n                  \n                  MQL5\n                  89.6%\n                \n            \n            \n                \n                  \n                  MQL4\n                  5.2%\n                \n            \n            \n                \n                  \n                  JavaScript\n                  5.2%\n                \n            \n          \n        \n      \n    \n  \n\n    \n      MQL5\n      MQL4\n      JavaScript\n    \n\n\n\n\n  \n  \n\n  \n      Branch:\n      master\n  \n\n  \n\n    \n      \n        \n        Switch branches/tags\n      \n\n      \n        \n          \n        \n        \n          \n            \n              Branches\n            \n            \n              Tags\n            \n          \n        \n      \n\n      \n\n        \n\n\n            \n              \n              \n                master\n              \n            \n        \n\n          Nothing to show\n      \n\n      \n        \n\n\n        \n\n        Nothing to show\n      \n\n    \n  \n\n\n\n        \n          New pull request\n        \n\n  \n    \n  \n\n  \n\n    \n      Find file\n    \n  \n  \n\n    \n  \n    Clone or download\n    \n  \n  \n    \n\n      \n          \n\n            \n              Clone with HTTPS\n              \n                \n              \n            \n            \n              Use Git or checkout with SVN using the web URL.\n            \n\n            \n  \n  \n    \n      \n    \n  \n\n\n          \n\n        \n          \n\n  Download ZIP\n\n\n        \n      \n\n      \n        Launching GitHub Desktop...\n        If nothing happens, download GitHub Desktop and try again.\n        Go back\n      \n\n      \n        Launching GitHub Desktop...\n        If nothing happens, download GitHub Desktop and try again.\n        Go back\n      \n\n      \n        Launching Xcode...\n        If nothing happens, download Xcode and try again.\n        Go back\n      \n\n      \n        Launching Visual Studio...\n        If nothing happens, download the GitHub extension for Visual Studio and try again.\n        Go back\n      \n\n    \n  \n\n\n\n\n\n  \n  \n    \n        \n          \n          Pull request\n        \n      \n        \n        Compare\n      \n    \n\n      This branch is even with EricSchles:master.\n  \n\n\n  \n      \n      Fetching latest commit                            \n  \n  \n    Cannot retrieve the latest commit at this time.\n  \n\n\n\n\n\n  Permalink\n\n  \n\n\n    \n      \n        \n        Failed to load latest commit information.\n      \n\n        \n          \n            \n            \n          \n          \n            MQL4\n          \n          \n            \n            \n          \n          \n            \n          \n        \n        \n          \n            \n            \n          \n          \n            MQL5\n          \n          \n            \n            \n          \n          \n            \n          \n        \n        \n          \n            \n            \n          \n          \n            ZMQ-SERVER\n          \n          \n            \n            \n          \n          \n            \n          \n        \n        \n          \n            \n            \n          \n          \n            LICENSE\n          \n          \n            \n            \n          \n          \n            \n          \n        \n        \n          \n            \n            \n          \n          \n            README.md\n          \n          \n            \n            \n          \n          \n            \n          \n        \n    \n  \n\n\n\n\n\n\n  \n    \n      \n        \n        README.md\n      \n    \n      \n        hitback.us\nAlgorithmic trading and quantitative trading platform to develop trading robots (stock markets, forex, bitcoins and options)\n\nThis project provide MQL4 and MQL5 bindings for the ZeroMQ networking library to an external server to create live streaming pipeline with real time data of ticks and order book changes.\nWith ZeroMQ (http://zeromq.org/) you can:\n\nConnect your code in any language, on any platform.\nCarries messages across inproc, IPC, TCP, TIPC, multicast.\nSmart patterns like pub-sub, push-pull, and router-dealer.\nHigh-speed asynchronous I/O engines, in a tiny library.\nBacked by a large and active open source community.\nSupports every modern language and platform.\nBuild any architecture: centralized, distributed, small, or large.\n\nExchange side\nIn this example we are using just two brokers XM and FXPRO for streaming the data but you can connect to an unlimit numner of brokers at the same time.\nINSTALL\nRecursively copy the folder MQL4 for metatrader4 over the MQL4 folder or for metatrader5 recursively copy the folder MQL5 over the MQL5\nVersion notes:\nI\'m using MetaTrader build 1000+ and ZeroMQ4.x\n\nNOTE: when attaching to the chart make sure to select "Allow DLL Imports" and de-select "Confirm DLL Function Calls".\nNOTE: If you want to use ZeroMQ different of 4.x you must compile the dll again\nNOTE: Precompiled DLLs of both 64bit and 32bit ZeroMQ and libsodium are provided. If you are using MT5 32bit, use the 32bit version from Library/MT4. The DLLs require that you have the latest Visual C++ runtime (2015). Note that these DLLs are compiled from official sources, without any modification. You can compile your own if you don\'t trust these binaries. The libsodium.dll is copied from the official binary release. If you want to support security mechanisms other than curve, or you want to use transports like OpenPGM, you need to compile your own DLL.\n\nAbout string encoding\nMQL strings are Win32 UNICODE strings (basically 2-byte UTF-16). In this binding all strings are converted to utf-8 strings before sending to the dll layer. The ZmqMsg supports a constructor from MQL strings, the default is NOT null-terminated.\nServer side\nINSTALL\nInside the Server folder there is a server with ZMQ that subscribe the brokers to get every tick and also the order book in real time.\nOnce the ZMQ receive new ticks or any change on the order book happen, it is automatically re-streamed to Kafka / ZeroMQ and PubNub and you can process this data in real time.\nInstall ZMQ Ubuntu 16.04\nsudo apt-get install libtool pkg-config build-essential autoconf automake\nsudo apt-get install libzmq-dev\nInstall libsodium\ngit clone git://github.com/jedisct1/libsodium.git\ncd libsodium\n./autogen.sh\n./configure && make check\nsudo make install\nsudo ldconfig\nInstall zeromq\nlatest version as of this post is 4.1.2\nwget http://download.zeromq.org/zeromq-4.1.2.tar.gz\ntar -xvf zeromq-4.1.2.tar.gz\ncd zeromq-4.1.2\n./autogen.sh\n./configure && make check\nsudo make install\nsudo ldconfig\nPushing Support\n\nPubNub\nRabbitMQ\nZeroMQ\nKafka\n\n\n      \n  \n\n\n  \n  \n\n\n    \n  \n\n  \n\n        \n\n  \n    \n               2018 GitHub, Inc.\n        Terms\n        Privacy\n        Security\n        Status\n        Help\n    \n\n    \n      \n\n   \n        Contact GitHub\n        Pricing\n      API\n      Training\n        Blog\n        About\n\n    \n  \n  \n    \n  \n\n\n\n\n  \n    \n    \n      \n    \n    You can                                t perform that action at this time.\n  \n\n\n    \n    \n    \n    \n    \n    \n    \n  \n    \n    You signed in with another tab or window. Reload to refresh your session.\n    You signed out in another tab or window. Reload to refresh your session.\n  \n  \n  \n    \n    \n    \n      \n    \n  \n\n\n  \n  \n    \n    \n      \n        \n      \n      \n    \n  \n\n\n  \n  \n  \n\n\n\n  Press h to open a hovercard with more details.\n\n\n\n  \n\n\n\n\n'
+b'
+
+
+
+
+
+
+
+  
+
+
+
+    
+  
+  
+  
+  
+  
+  
+  
+
+
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+  GitHub - afcarl/bindings-mql4-5: Live streaming financial data using ZMQ and metatrader (32bit MT4 and 64bit MT5)
+    
+    
+  
+  
+
+    
+    
+
+  
+  
+  
+  
+  
+
+
+  
+
+  
+
+    
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+  
+
+      
+    
+
+      
+    
+
+    
+
+  
+
+  
+  
+
+      
+      
+
+  
+
+  
+
+
+    
+
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+  
+
+  
+
+  
+    
+
+  
+    Skip to content
+    
+
+    
+    
+    
+
+
+
+        
+
+
+  
+    
+      
+        
+          
+        
+
+      
+
+      
+          
+            
+                
+                  
+                    Features
+                
+                
+                  
+                    Business
+                
+
+                
+                  
+                    Explore
+                
+
+                
+                      
+                        Marketplace
+                
+                
+                  
+                    Pricing
+                
+            
+          
+
+        
+            
+              
+  
+    
+      
+        
+          
+            
+
+            
+              
+                
+                  
+                    
+                    
+
+                    
+                    
+
+                    
+                      
+                        In this repository
+                      
+                      
+                        All GitHub
+                      
+                                                  
+                    
+
+                    
+                      Jump to
+                                                  
+                    
+                  
+                
+                
+                
+                
+              
+              
+                
+                  No suggested jump to results
+                
+              
+
+              
+                
+                  
+                
+              
+            
+      
+  
+
+
+            
+
+          
+              
+                Sign in
+                  or
+                  Sign up
+              
+          
+        
+      
+    
+  
+
+  
+
+  
+
+    
+
+
+
+
+
+
+  
+        
+    
+      
+
+
+
+
+
+  
+    
+
+      
+  
+      
+    
+    Watch
+  
+  
+    0
+  
+
+  
+
+  
+      
+    
+    Star
+  
+
+    
+      0
+    
+
+  
+
+  
+      
+        
+        Fork
+      
+
+    
+      12
+    
+  
+
+
+      
+  
+  afcarl/bindings-mql4-5
+
+    
+      forked from EricSchles/bindings-mql4-5
+    
+
+
+    
+    
+
+
+  
+    
+      
+      Code
+      
+  
+
+
+  
+    
+      
+      Pull requests
+      0
+      
+  
+
+    
+      
+      Projects
+      0
+
+
+
+
+  
+    
+    Insights
+
+
+
+
+
+  
+
+
+  
+
+    
+      
+      
+        
+          
+            
+              Dismiss
+            
+          Join GitHub today
+          GitHub is home to over 28 million developers working together to host and review code, manage projects, and build software together.
+          Sign up
+        
+      
+    
+
+
+  
+  
+    
+          
+            Live streaming financial data using ZMQ and metatrader (32bit MT4 and 64bit MT5)
+          
+    
+
+  
+
+
+
+
+
+  
+    
+      
+      
+        
+          
+              
+              
+                26
+              
+              commits
+          
+        
+        
+          
+            
+            
+              1
+            
+            branch
+          
+        
+
+        
+          
+            
+            
+              0
+            
+            releases
+          
+        
+
+        
+            
+              
+                
+                
+                Fetching contributors
+              
+        
+          
+            
+              
+                Apache-2.0
+            
+          
+      
+
+        
+          
+            
+                
+                  
+                  MQL5
+                  89.6%
+                
+            
+            
+                
+                  
+                  MQL4
+                  5.2%
+                
+            
+            
+                
+                  
+                  JavaScript
+                  5.2%
+                
+            
+          
+        
+      
+    
+  
+
+    
+      MQL5
+      MQL4
+      JavaScript
+    
+
+
+
+
+  
+  
+
+  
+      Branch:
+      master
+  
+
+  
+
+    
+      
+        
+        Switch branches/tags
+      
+
+      
+        
+          
+        
+        
+          
+            
+              Branches
+            
+            
+              Tags
+            
+          
+        
+      
+
+      
+
+        
+
+
+            
+              
+              
+                master
+              
+            
+        
+
+          Nothing to show
+      
+
+      
+        
+
+
+        
+
+        Nothing to show
+      
+
+    
+  
+
+
+
+        
+          New pull request
+        
+
+  
+    
+  
+
+  
+
+    
+      Find file
+    
+  
+  
+
+    
+  
+    Clone or download
+    
+  
+  
+    
+
+      
+          
+
+            
+              Clone with HTTPS
+              
+                
+              
+            
+            
+              Use Git or checkout with SVN using the web URL.
+            
+
+            
+  
+  
+    
+      
+    
+  
+
+
+          
+
+        
+          
+
+  Download ZIP
+
+
+        
+      
+
+      
+        Launching GitHub Desktop...
+        If nothing happens, download GitHub Desktop and try again.
+        Go back
+      
+
+      
+        Launching GitHub Desktop...
+        If nothing happens, download GitHub Desktop and try again.
+        Go back
+      
+
+      
+        Launching Xcode...
+        If nothing happens, download Xcode and try again.
+        Go back
+      
+
+      
+        Launching Visual Studio...
+        If nothing happens, download the GitHub extension for Visual Studio and try again.
+        Go back
+      
+
+    
+  
+
+
+
+
+
+  
+  
+    
+        
+          
+          Pull request
+        
+      
+        
+        Compare
+      
+    
+
+      This branch is even with EricSchles:master.
+  
+
+
+  
+      
+      Fetching latest commit                            
+  
+  
+    Cannot retrieve the latest commit at this time.
+  
+
+
+
+
+
+  Permalink
+
+  
+
+
+    
+      
+        
+        Failed to load latest commit information.
+      
+
+        
+          
+            
+            
+          
+          
+            MQL4
+          
+          
+            
+            
+          
+          
+            
+          
+        
+        
+          
+            
+            
+          
+          
+            MQL5
+          
+          
+            
+            
+          
+          
+            
+          
+        
+        
+          
+            
+            
+          
+          
+            ZMQ-SERVER
+          
+          
+            
+            
+          
+          
+            
+          
+        
+        
+          
+            
+            
+          
+          
+            LICENSE
+          
+          
+            
+            
+          
+          
+            
+          
+        
+        
+          
+            
+            
+          
+          
+            README.md
+          
+          
+            
+            
+          
+          
+            
+          
+        
+    
+  
+
+
+
+
+
+
+  
+    
+      
+        
+        README.md
+      
+    
+      
+        hitback.us
+Algorithmic trading and quantitative trading platform to develop trading robots (stock markets, forex, bitcoins and options)
+
+This project provide MQL4 and MQL5 bindings for the ZeroMQ networking library to an external server to create live streaming pipeline with real time data of ticks and order book changes.
+With ZeroMQ (http://zeromq.org/) you can:
+
+Connect your code in any language, on any platform.
+Carries messages across inproc, IPC, TCP, TIPC, multicast.
+Smart patterns like pub-sub, push-pull, and router-dealer.
+High-speed asynchronous I/O engines, in a tiny library.
+Backed by a large and active open source community.
+Supports every modern language and platform.
+Build any architecture: centralized, distributed, small, or large.
+
+Exchange side
+In this example we are using just two brokers XM and FXPRO for streaming the data but you can connect to an unlimit numner of brokers at the same time.
+INSTALL
+Recursively copy the folder MQL4 for metatrader4 over the MQL4 folder or for metatrader5 recursively copy the folder MQL5 over the MQL5
+Version notes:
+I\'m using MetaTrader build 1000+ and ZeroMQ4.x
+
+NOTE: when attaching to the chart make sure to select "Allow DLL Imports" and de-select "Confirm DLL Function Calls".
+NOTE: If you want to use ZeroMQ different of 4.x you must compile the dll again
+NOTE: Precompiled DLLs of both 64bit and 32bit ZeroMQ and libsodium are provided. If you are using MT5 32bit, use the 32bit version from Library/MT4. The DLLs require that you have the latest Visual C++ runtime (2015). Note that these DLLs are compiled from official sources, without any modification. You can compile your own if you don\'t trust these binaries. The libsodium.dll is copied from the official binary release. If you want to support security mechanisms other than curve, or you want to use transports like OpenPGM, you need to compile your own DLL.
+
+About string encoding
+MQL strings are Win32 UNICODE strings (basically 2-byte UTF-16). In this binding all strings are converted to utf-8 strings before sending to the dll layer. The ZmqMsg supports a constructor from MQL strings, the default is NOT null-terminated.
+Server side
+INSTALL
+Inside the Server folder there is a server with ZMQ that subscribe the brokers to get every tick and also the order book in real time.
+Once the ZMQ receive new ticks or any change on the order book happen, it is automatically re-streamed to Kafka / ZeroMQ and PubNub and you can process this data in real time.
+Install ZMQ Ubuntu 16.04
+sudo apt-get install libtool pkg-config build-essential autoconf automake
+sudo apt-get install libzmq-dev
+Install libsodium
+git clone git://github.com/jedisct1/libsodium.git
+cd libsodium
+./autogen.sh
+./configure && make check
+sudo make install
+sudo ldconfig
+Install zeromq
+latest version as of this post is 4.1.2
+wget http://download.zeromq.org/zeromq-4.1.2.tar.gz
+tar -xvf zeromq-4.1.2.tar.gz
+cd zeromq-4.1.2
+./autogen.sh
+./configure && make check
+sudo make install
+sudo ldconfig
+Pushing Support
+
+PubNub
+RabbitMQ
+ZeroMQ
+Kafka
+
+
+      
+  
+
+
+  
+  
+
+
+    
+  
+
+  
+
+        
+
+  
+    
+               2018 GitHub, Inc.
+        Terms
+        Privacy
+        Security
+        Status
+        Help
+    
+
+    
+      
+
+   
+        Contact GitHub
+        Pricing
+      API
+      Training
+        Blog
+        About
+
+    
+  
+  
+    
+  
+
+
+
+
+  
+    
+    
+      
+    
+    You can                                t perform that action at this time.
+  
+
+
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    You signed in with another tab or window. Reload to refresh your session.
+    You signed out in another tab or window. Reload to refresh your session.
+  
+  
+  
+    
+    
+    
+      
+    
+  
+
+
+  
+  
+    
+    
+      
+        
+      
+      
+    
+  
+
+
+  
+  
+  
+
+
+
+  Press h to open a hovercard with more details.
+
+
+
+  
+
+
+
+
+
