@@ -42,7 +42,7 @@ END: Example of GITHUB2VEC Output:
 
 5. Create html files for each Repo Webpage using: ./1_Repo_data/WP_copy_B.py, using "output.dat" as input.
 
-6. Create txt files for each Repo html file using: ./1_Repo_data/WP_copy_B.py, using "output.dat" as input.
+6. Create txt files for each Repo html file using: ./1_Repo_data/html_parse_H.py, using "output.dat" as input.
 
 7. Create zipped dictionary files using: ./2_Gensim_Simserver/simserver_run_local_F2.py.
 7a. Input #1: html_parse_H_ALL_LABELS_1000.txt
