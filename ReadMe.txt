@@ -59,7 +59,8 @@ Similar:  [('02456-deep-learning', 1.0, None), ('awesome-docker', 0.781410872936
 7h. OUTPUT #2: print("DisSimilar: ", service.find_dissimilar('02456-deep-learning', max_score=0.5, max_results=10))
 DisSimilar:  [('attention-is-all-you-need-divyanshj16', 4.366040229797363e-05, None), ('allen', 0.00011094659566879272, None), ('bemkl', 0.00014548376202583313, None), ('backo', 0.00017013587057590485, None), ('aeropy-AeroPython', 0.000325517263263464, None), ('arduino-projects', 0.00038177333772182465, None), ('Asymmetric-Hashing-ANN', 0.000621844083070755, None), ('active-testing', 0.0006259661167860031, None), ('adaptive-neural-compilation', 0.0008356906473636627, None), ('amen', 0.0008382126688957214, None)]
 
-7i. OUTPUT #3: print(service.find_similar(doc, min_score=0.5, max_results=11))
+7i. OUTPUT #3: doc = {'tokens': gensim.utils.simple_preprocess('Graph and minors and humans and trees.')}
+print(service.find_similar(doc, min_score=0.5, max_results=11))
 [('ASTRAL', 0.5314284563064575, None), ('annoy', 0.5216116905212402, None)]
 
 7j. OUTPUT #4: doc_title_Similar_dict_1000.zpkl
